@@ -1,3 +1,7 @@
+include ':step05layout'
+include ':step04webview'
+include ':step03listview3'
+include ':step03listview2'
 include ':step03listview'
 include ':step02view'
 include ':step01hello'
